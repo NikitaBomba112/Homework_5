@@ -1,0 +1,14 @@
+D:\Games\C#\Itstep\Homework_5\Homework_5\bin\Debug\net8.0\Homework_5.exe
+D:\Games\C#\Itstep\Homework_5\Homework_5\bin\Debug\net8.0\Homework_5.deps.json
+D:\Games\C#\Itstep\Homework_5\Homework_5\bin\Debug\net8.0\Homework_5.runtimeconfig.json
+D:\Games\C#\Itstep\Homework_5\Homework_5\bin\Debug\net8.0\Homework_5.dll
+D:\Games\C#\Itstep\Homework_5\Homework_5\bin\Debug\net8.0\Homework_5.pdb
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.AssemblyInfoInputs.cache
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.AssemblyInfo.cs
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.csproj.CoreCompileInputs.cache
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.dll
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\refint\Homework_5.dll
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.pdb
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\Homework_5.genruntimeconfig.cache
+D:\Games\C#\Itstep\Homework_5\Homework_5\obj\Debug\net8.0\ref\Homework_5.dll
